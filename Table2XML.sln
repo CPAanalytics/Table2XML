@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table2XML", "Table2XML.csproj", "{4AB4D38E-1D06-4799-A7D4-9576E63F47E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB4D38E-1D06-4799-A7D4-9576E63F47E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB4D38E-1D06-4799-A7D4-9576E63F47E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB4D38E-1D06-4799-A7D4-9576E63F47E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB4D38E-1D06-4799-A7D4-9576E63F47E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B14B7F-2AAE-4094-A449-7A11B25CDB6D}
+	EndGlobalSection
+EndGlobal
